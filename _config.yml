@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'Winterdusk.'
-subtitle: 'Data Engineering Blog with (Life) Thoughts.'
-description: Winterdusk.
+title: 'hemukase.'
+subtitle: 'Omakase of sea, water, azure-winged magpie and yearning.'
+description: 'hemukase.'
 keywords:
-author: Winterdusk
+author: hemukase
 language: en
 timezone: 'Europe/Berlin'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://heansuh.github.io
+url: http://hemukase.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
