@@ -111,45 +111,29 @@
       href="https://unpkg.com/@waline/client@v2/dist/waline.css"
     />
   <% } %>
-<style>
+  <style>
     /* =========================================================
-       Mobile Overrides: The Absolute Sledgehammer
+       Mobile Overrides: Hard-coded small sizes
        ========================================================= */
     @media screen and (max-width: 768px) {
-      /* 1. Lock down the entire screen width */
-      html, body, .container, main, header {
-        width: 100vw !important;
-        max-width: 100vw !important;
-        overflow-x: hidden !important;
-        margin: 0 !important;
-        padding: 0 !important;
-        box-sizing: border-box !important;
+      /* 1. Top-left logo: Made even smaller */
+      nav a, header a, [class*="nav"] {
+        font-size: 14px !important; 
       }
 
-      /* 2. Force EVERY heading and link to wrap and shrink */
-      h1, h2, h3, h4, h5, h6, a, p, span, div {
-        white-space: pre-wrap !important; /* Destroys 'nowrap' rules */
-        word-break: break-word !important;
-        overflow-wrap: break-word !important;
-        max-width: 100% !important;
+      /* 2. Main title: Made simply small to guarantee it fits */
+      h1, .title, .site-title, [class*="title"] {
+        font-size: 28px !important; 
+        word-break: normal !important; 
+        white-space: nowrap !important; 
       }
 
-      /* 3. Bruteforce the specific sizes */
-      /* Top-left logo */
-      nav a, header a {
-        font-size: 1.2rem !important; 
-      }
-      
-      /* Giant homepage title */
-      h1 {
-        font-size: 3rem !important;
-        line-height: 1.1 !important;
-      }
-
-      /* Subtitles and descriptions */
-      p {
-        font-size: 1rem !important;
-        padding-right: 10px !important;
+      /* 3. Subtitle: Left as it is (but kept the wrap rule so it doesn't stretch the screen) */
+      p, .subtitle, .description, [class*="subtitle"] {
+        font-size: 14px !important;
+        white-space: normal !important;
+        line-height: 1.5 !important;
+        padding-right: 16px !important; 
       }
     }
   </style>
