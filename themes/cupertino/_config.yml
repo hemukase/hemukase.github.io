@@ -1,14 +1,14 @@
 # REMEMBER TO EDIT THIS BEFORE DEPLOYING!!!
 
 # the path to your blog's icon:
-favicon: /android-chrome-512x512.png
+favicon: /hemukase_nordic-sea_512x512.png
 
 # the path to manifest.json
 manifest: /manifest.json
 
 # [Open Graph Protocol](https://ogp.me/)
 og_enabled: true
-og_image: /android-chrome-512x512.png
+og_image: /hemukase_nordic-sea_512x512.png
 og:
   # customize og properties here which will replace the defaults
 
