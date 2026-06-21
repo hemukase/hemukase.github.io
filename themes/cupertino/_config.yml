@@ -54,16 +54,16 @@ scroll_reveal: true
 # navigation config
 nav:
   # the title displays in the upper left corner which won't change
-  title: Winterdusk.
+  title: hemukase.
   # the items displays in the upper right corner
   items:
     # these items will display as a link
-    Posts: /archives
+    Posts: /posts
     Tags: /tags
     Categories: /categories
     About: /about
     # these will be automatically be an icon
-    GitHub: https://github.com/heansuh
+    GitHub: https://github.com/hemukase
     # CodePen: https://codepen.io/mrwillcom
     # Patreon: https://www.patreon.com/MrWillCom
     # Mastodon: https://noc.social/@MrWillCom
@@ -91,7 +91,7 @@ footer:
   # the title
   Me:
     # items
-    GitHub: https://github.com/heansuh
+    GitHub: https://github.com/hemukase
     # CodePen: https://codepen.io/mrwillcom
     # Patreon: https://www.patreon.com/MrWillCom
     # Mastodon: https://noc.social/@MrWillCom
