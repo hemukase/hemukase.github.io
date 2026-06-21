@@ -58,7 +58,7 @@ nav:
   # the items displays in the upper right corner
   items:
     # these items will display as a link
-    Posts: /posts
+    Posts: /
     Tags: /tags
     Categories: /categories
     About: /about
