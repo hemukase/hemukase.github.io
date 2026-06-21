@@ -8,7 +8,7 @@ manifest: /manifest.json
 
 # [Open Graph Protocol](https://ogp.me/)
 og_enabled: true
-og_image: /hemukase_head.png
+og_image: /hemukase_head_512x512.png
 og:
   # customize og properties here which will replace the defaults
 
