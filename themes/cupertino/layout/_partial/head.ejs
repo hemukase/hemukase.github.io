@@ -111,4 +111,32 @@
       href="https://unpkg.com/@waline/client@v2/dist/waline.css"
     />
   <% } %>
+  <style>
+    /* =========================================================
+       Mobile Overrides: Guaranteed to load last and win
+       ========================================================= */
+    @media screen and (max-width: 768px) {
+      /* 1. Shrink the top-left navigation logo */
+      [class*="nav"] [class*="title"], nav a, header a {
+        font-size: 1.5rem !important;
+      }
+
+      /* 2. Force the giant hero title to scale to the screen width (vw = viewport width) */
+      h1, [class*="title"] {
+        font-size: 14vw !important; 
+        white-space: normal !important;
+        overflow-wrap: break-word !important;
+        word-break: break-word !important;
+      }
+
+      /* 3. Force the subtitle to wrap smoothly */
+      p, [class*="subtitle"], [class*="desc"] {
+        font-size: 4.5vw !important;
+        white-space: normal !important; /* Overrides the rigid single-line rule */
+        overflow-wrap: break-word !important;
+        padding-right: 15px !important;
+        line-height: 1.4 !important;
+      }
+    }
+  </style>
 </head>
