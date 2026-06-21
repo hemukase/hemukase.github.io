@@ -8,7 +8,7 @@ manifest: /manifest.json
 
 # [Open Graph Protocol](https://ogp.me/)
 og_enabled: true
-og_image: /hemukase_nordic-sea_512x512.png
+og_image: /hemukase_head.png
 og:
   # customize og properties here which will replace the defaults
 
@@ -58,7 +58,7 @@ nav:
   # the items displays in the upper right corner
   items:
     # these items will display as a link
-    Posts: /
+    Posts: /posts
     Tags: /tags
     Categories: /categories
     About: /about
