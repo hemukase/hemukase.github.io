@@ -2,8 +2,8 @@
 title: About
 ---
 
-Welcome to **Winterdusk** — where the sea of thoughts meets the horizon.
+Welcome to **hemukase** — where the quiet yearning of a wanderer meets the twilight sea.
 
-This blog explores ideas, creativity, and (Python) code under the twilight of winter skies.
+This space explores variety of ideas, creativity, and code, guided by the azure-winged magpie (물까치) at dusk.
 
-Are you ready to explore the world with me? Let's go! :)
+Are you ready to explore the horizon with me? Let's take flight. 
