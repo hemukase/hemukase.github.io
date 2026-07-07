@@ -1,7 +1,7 @@
 ---
 title: To Be or Not To Be - English Tutor in Korea
 date: 2026-07-07
-cover_image: /img/english_tutor.webp
+cover_image: _posts/english_tutor/english_tutor.webp
 cover_image_alt: Stocks are dropping, so it's time for another job
 categories: Money
 tags: money
