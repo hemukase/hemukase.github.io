@@ -1,8 +1,7 @@
 ---
 title: Create local package and using it - [1]
 date: 2025-06-09
-cover_image: /img/package1.png
-cover_image_alt: Screenshot of terminal for making use of local package.
+cover: /img/package1.png
 categories: Python
 tags: python, package, class, function, constructor, object
 ---
