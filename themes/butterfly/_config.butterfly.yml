@@ -60,7 +60,7 @@ avatar:
   effect: false
 
 # Disable all banner images
-disable_top_img: false
+disable_top_img: true
 
 # If the banner of page not setting, it will show the default_top_img
 default_top_img: /img/hemukase_background.webp
@@ -174,7 +174,7 @@ subtitle:
 # 5: Info displayed on the cover
 # 6: Masonry layout - Cover on top, info on the bottom
 # 7: Masonry layout - Info displayed on the cover
-index_layout: 3
+index_layout: 6
 
 # Display the article introduction on homepage
 # 1: description
