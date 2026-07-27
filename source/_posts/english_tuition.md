@@ -6,6 +6,8 @@ categories: English
 tags: money, english
 ---
 
+![Hard.. but I still have to try harder](english_tuition/english_tuition.jpg)
+
 ## English Curriculum
 Yes, so I managed to start my first class last Monday on 20 July.  
 It was nerve-wrecking, but somehow I managed to do it pretty well, and I just finished this week's curriculum for my student.  
